@@ -2,6 +2,9 @@
 
 Este projeto consiste na criação de um dashboard analítico de vendas utilizando o Microsoft Power BI. O objetivo é responder a perguntas-chave sobre as vendas globais, permitindo aos usuários explorarem e filtrarem os dados para obter insights valiosos.
 
+![Gráfico de Vendas](img/img.png)
+
+
 ## 📑 Sumário
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
