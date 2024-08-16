@@ -2,7 +2,7 @@
 
 Este projeto envolve a criação de um dashboard para análise do desempenho logístico, focado em métricas de entregas, como a pontualidade, desempenho por equipe, e análise de atrasos por localização. O objetivo é fornecer insights que ajudem a otimizar as operações logísticas e melhorar a satisfação do cliente.
 
-![Dashboard de Logística](Data/dashboard_logistica.png)
+![Dashboard de Logística](Data/logistica.png)
 
 ## 📑 Sumário
 - [Objetivo do Projeto](#objetivo-do-projeto)
